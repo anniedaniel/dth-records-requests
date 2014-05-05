@@ -1,0 +1,1019 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Annie Daniel</Author>
+  <LastAuthor>Annie Daniel</LastAuthor>
+  <Created>2014-05-05T14:22:51Z</Created>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12280</WindowHeight>
+  <WindowWidth>25360</WindowWidth>
+  <WindowTopX>4000</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="records.csv">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="107" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">Email Number</Data></Cell>
+    <Cell><Data ss:Type="String">Date Requested</Data></Cell>
+    <Cell><Data ss:Type="String">Date Received</Data></Cell>
+    <Cell><Data ss:Type="String">Requestor</Data></Cell>
+    <Cell><Data ss:Type="String">Request Description</Data></Cell>
+    <Cell><Data ss:Type="String">Succesful</Data></Cell>
+    <Cell><Data ss:Type="String">Of interest</Data></Cell>
+    <Cell><Data ss:Type="String">Tags</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">273</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-09-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-10-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Marcinek</Data></Cell>
+    <Cell><Data ss:Type="String">Chancellor Holden Thorp's emails related to Courtland Smith, both those he has receive and sent.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">269</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-09-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-01-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Austin</Data></Cell>
+    <Cell><Data ss:Type="String">E-mails to and from the Assistant Dean of Students for Fraternity and Sorority Life in official conduct of the job.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">270</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-11-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-12-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Marcinek</Data></Cell>
+    <Cell><Data ss:Type="String">Plane manifest and destinations for the following University officials using aircraft owned by the University of North Carolina: Chancellor Holden Thorp, Director of Athletics Dick Baddour, men's basketball head coach Roy Williams, and football head coach Butch Davis. (Records from July 1, 2008 to the present.)</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Records</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">268</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2009-11-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-01-22T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Marcinek</Data></Cell>
+    <Cell><Data ss:Type="String">Travel records and travel expenses for Dick Baddour, Roy Williams and Butch Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Records</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">267</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-01-22T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-01-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin Kiley</Data></Cell>
+    <Cell><Data ss:Type="String">Copies of the contracts for the last 3-4 executive vice chancellors and provosts.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-18T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Austin</Data></Cell>
+    <Cell><Data ss:Type="String">A copy of the chancellor's discretionary budget</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">262</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-23T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-24T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Evan Rose</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone log created by Jenny Levering and a portion of the printed telephone log invoices for both her University cellular telephone and her personal cellular telephone.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">261</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-25T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Evan Rose</Data></Cell>
+    <Cell><Data ss:Type="String">E-mail between Chancellor Holden Thorp and the Smith (Pharr and Susan) family.</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Denied, &quot;The University has not identified any public documents responsive to your request.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-03-26T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-04-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan Barber</Data></Cell>
+    <Cell><Data ss:Type="String">A copy of the current Aramark contract and any other contracts the University has had with dining companies like Aramark.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">257</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-08-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-08-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">The email sent to the University of North Carolina from the NCAA regarding when investigators would be on campus (July 12 and 13). </Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Emails, Basketball</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">255</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-08-26T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">E-mail correspondence between the University and the NCAA since Aug. 15, 2010.</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Denied, &quot;There are no additional public records to provide to you at this time&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Emails, Basketball</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Phone records of former UNC football associate head coach John Blake's university-issued cell phone from Nov. 1 until Sept. 5 (the day of his resignation). </Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Received in disk form.</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">252</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-09T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">The end-of-semester evaluation/feedback forms filled out since Jan 1, 2009 by all current and former UNC tutors and mentors who worked with student-athletes on the football, basketball, men and women's soccer teams and track and field teams. Names, employment dates and salaries of all the individuals currently or previously employed by the University as either academic tutors or mentors since Jan. 1, 2007</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+    <Cell><Data ss:Type="String">Names/Salaries were not received and wasn't explained why.</Data></Cell>
+    <Cell><Data ss:Type="String">Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-11T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Phone Records for football coach John Blake</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-12-03T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Additional phone records of John Blake</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">213</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-12-03T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Employee or tutor list for each academic year since January 1, 2007</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">247</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">University phone records for Butch Davis.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">206</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-03T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Additional phone records of John Blake</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">235</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">All records requested from University by any third party (including but not limited to news organizations, freelance journalists, private citizens) since June 1, 2010. All records provided to the NCAA by the University since March 1, 2010.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Gave a disk, the first request was sent on 9/10/10 from Sara with all the *, she kept following up and each record was made available at different dates. Not all were made available to her. </Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-19T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">List of football scholarship athletes</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">214</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-12-03T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Holden Thorp emails relating to football scandal</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">yes; &gt;750 pages</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-06T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Resume John Blake provided to the University, the External. Professional Activities for Pay Notice of Intent forms submitted by both John Blake and Butch Davis; and University telephone records for Butch Davis.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Football, Phone Calls, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-11T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">John Blakeâ€™s electronic mail messages.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Football, Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-22T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Football coach John Blake's email records</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">yes; heavily redacted</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">205</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Phone records for Dick Baddour from 4/23/2010 - 5/22/2010 and from 8/23/2010 - 10/22/2010</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-03-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">University landline phone records for Butch Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-03-25T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone records for Holden Thorp</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-09-30T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-07T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Copy of the FERPA waiver the University asks student-athletes to sign and any additional waivers the University asks student-athletes to sign before the University can release information on those individuals (for instance, any HIPPA waivers).</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, FERPA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">233</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">A copy of any contracts between the University and Bain &amp; Company consulting firm since December 2007. The names of all students accused of sexual assault who were brought before the Honor Court for that charge and found to have violated the Honor Code since August 1, 2006. Documentation showing what the University considers to be directory information in regards to the Family Educational Rights and Privacy Act.</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Responded back saying some of those things were not available and the names were not public record.</Data></Cell>
+    <Cell><Data ss:Type="String">Sexual Assault, FERPA, contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">230</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Phone records for Head Football Coach Butch Davis.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Football, Phone Calls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">205</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Additional email records of John Blake</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-10-31T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-02T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Any disassociation letters issued from athletic director Dick Baddour since Oct. 4</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">199</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-03-23T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Taube</Data></Cell>
+    <Cell><Data ss:Type="String">2009-2010 financial records for men's soccer, women's field hockey, men's and women's basketball</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">yes</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Basketball, Budgets, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-03-02T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Documents concerning bids related to UNC's use of wood pellets</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">yes; bizarre</Data></Cell>
+    <Cell><Data ss:Type="String">Contracts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2010-11-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-07-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sara Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">Contract between UNC and 2tor regarding MBA program</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Money, Courses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">207</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-01-27T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-03T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Hiring letter for Amy Schaeperkoetter</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">204/202</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-02-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Contract signed by former football assistant coach Brian Baker</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Football, Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">193/188</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-05-26T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-07-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">The initial report presented to Energy Services that details the results of the wood pellet tests from the spring semester</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;there are no documents responsive to your request.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Reports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">191/187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-06-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-07-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">The bid announcment Energy Services issued for torrefied wood pellets on Monda</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">182</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-09-07T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">the draft report on alternative fuels</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Reports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-09-08T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">any emails dating back to 9/8/2011 that mention &quot;torrefied wood pellets,&quot; &quot;torrefied wood,&quot; or &quot;torrefied pellets.&quot; Also, any bids submitted to Ray DuBose, Phil Barner, or Energy Services in regards to torrefied wood pellets</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Reports, Contracts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2011-11-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-04-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Thomason</Data></Cell>
+    <Cell><Data ss:Type="String">â€œgrade distributions from all classes listed under AFAM, or African and Afro-American Studies, for the last five academic years (2006-07, 2007-08, 2008-09, 2009-10, 2010-11)â€¦[meaning] a class-by-class breakdown of the number of students who made As, Bs, Cs, Ds, and Fs for every class listed under the department for the past five yearsâ€¦[including] independent study courses.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Courses, Grades, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-07-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Matthew Cox</Data></Cell>
+    <Cell><Data ss:Type="String">â€œall public records requests made to the University by any news publication within the last six months (since January 1, 2012) through today (July 9, 2012).â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;proposed athletic budget for the 2012-2013 school year&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Budgets, Money, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Received email: 44, Sent email: Not found</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-31T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah Glen</Data></Cell>
+    <Cell><Data ss:Type="String">A copy of the Universityâ€™s contract with Virchow-Krause.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Virchow Krouse was a firm that helped review courses in the department of Afro- and African-American Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Courses, Money, Students, Sports, Football</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-21T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Mary Stevens</Data></Cell>
+    <Cell><Data ss:Type="String">The contract between J.Cole and UNC's CUAB to perform at Homecoming</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Arts, Money, Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-22T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-23T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Questions relating to the budget: 1) Why did the TV/radio revenue increase? 2) What makes up the &quot;other&quot; category on the revenue and expense sides? 3) Why did salary/benefit expenses increase $3.7 million? Does it have anything to do with the 15 people hired by the athletic department over the summer? 4) Why did academic support get a 23% cut? 5) Why were facilities and administrative costs also cut? 6) Where is the extra direct sport spending going?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Budgets, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-23T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-23T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I came across this public record on the Daily Tar Heel's computers, and I'm hoping you can give me some context on what it was specifically in reference to.  At the time of the request, what exactly fell under the label of remedial education'?&quot; [I think referencing Academic spending by Athletics&#45;-maybe football]&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Records, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-24T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">breakdowns: &quot;1) Other revenue: How much of the additional other revenue is from Rams Club donations and how much is from sponsors and ther sources? 2) Salaries and benefits: How much of the additional S&amp;B expense is from coaches, how much is from the state's salary bump, and how much is from contractually mandated benefit increases?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Requested wrote on a Monday that she had not received Melvin's email from Friday (8/24) on that Friday</Data></Cell>
+    <Cell><Data ss:Type="String">Budgets, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-27T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-04-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">â€œthe documentation for all public records requests made to the University since May 1st, 2012, including the documentation you gave the requester when filling the request and the documentation of the original request itself.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+    <Cell><Data ss:Type="String">Copies of requests made within that date range were provided, but it looks like the other part of the request (&quot;including the documentation you gave the requester when filling the request&quot;) was/is pending </Data></Cell>
+    <Cell><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I am making a public records request for the most recent contracts UNC signed with the following varsity coaches: Mike Fox (baseball), Roy Williams (men's basketball), Mark VanAlstyne (cross country), Ron Miller (fencing), Andrew Sapp (men's golf), Joe Breschi (men's lacrosse), Carlos Somoano (men's soccer), Rich DeSelm (men's swimming), Sam Paul (men's tennis), Harlis Meaders (track and field), C.D. Mock (wrestling), Sylvia Hatchell (women's basketball), Karen Shelton (field hockey), Jan Mann (women's golf), Derek Galvin (gymnastics), Jenny Levy (women's lacrosse), Sarah Haney (rowing), Anson Dorrance (women's soccer), Boo Gillette (softball), Brian Kalbas (women's tennis), Joe Sagula (volleyball)&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Did not have contract copies for 2 out of 21 coaches requested, but gave current salaries for those two coaches. &quot;We do not currently have copies of contracts for 'Harlis Meaders (track and field),' and 'Mark VanAlstyne (cross country).' Coach Meadersâ€™ current salary is $100,000; and, Coach VanAlstyneâ€™s current salary is $70,000.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Contracts, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;UNC's athletic budgets from the 2008-2009 and 2009-2010 fiscal years&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Budgets, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-26T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;the most recent contracts UNC signed with Gatorade.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-29T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-10-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;the most recent contracts UNC signed with Wells Fargo/Wachovia&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-08-31T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-10T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Here are academic support breakdowns I'm requesting: 1) How much of the salary and benefits money is going to academic counselors? 2) How much of the academic support money is going to tutors? 3) How much of the academic support money is going to office supplies? 4) How much of the academic support money is going to conference travel? 5) How much of the academic support money is going to other sources (and what are those other sources?)? For the breakdowns above, could I get figures from this year, last year, and the year before?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Budgets, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">107</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-26T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;the 'guarantee game' contracts signed with the following schools for this year [2012]: Elon University (football), University of Idaho (football), University of Louisville (football), Gardner-Webb University (basketball), University of Alabama-Birmingham (basketball), Florida-Atlantic University (basketball), East Tennessee State University (basketball), East Carolina University (football and basketball), McNeise State University (basketball), Additionally, I would like a copy of the contract signed with the University of Tennessee for the game we were supposed to play in 2011.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Football, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">SAOF reports going back to</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Money, Students</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-24T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;records from the University's Department of Public Safety police reports....I would like the following information for all arrests and incidents: case number, date, location (as specific as the report gives), offense, whether it was an incident or an arrest....I would like this information for February 1st, 2012 - August 31, 2012.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Received email: 73, Sent email: Not found</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah Glen</Data></Cell>
+    <Cell><Data ss:Type="String">A copy of Matt Kupecâ€™s travel expenses dating back to 2005 and Tami Hansbroughâ€™s dating back to 2008.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Money, Basketball</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-18T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;The yearly budget for ITS (including a breakdown by division/department) from 2006 to present. Since he was hired, all records for Larry Conrad's expense accounts, and any instances where the University paid for his expenses or he paid for something and was then reimbursed by the University.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Completely filled in July or August 2013</Data></Cell>
+    <Cell><Data ss:Type="String">Money, Budgets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-25T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-26T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;When going through the incident reports for DPS, I came across: Embezzlement - Larc by Employees, 2012002221, 140.5 Franklin Street Building, 8/21/2012 I would like the incident report for this.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-09-28T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-05T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;How much is UNC paying in women's basketball guarantees this year? Could you break it down per team?&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Basketball, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-01T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-23T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;records from the University's Department of Public Safety police reports....I would like the following information for all arrests and incidents: case number, date, location (as specific as the report gives), offense, whether it was an incident or an arrest I would like this information for September 1st, 2012 - September 30, 2012.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-22T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;UNC's football contract with the University of Minnesota for the 2013-2014 season.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Football, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-24T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;UNC's contract with appmaker NeuLion&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">The record provided is a contract with Learfield Communications, Inc. Regina writes &quot;Your request pertained to the rights and responsibility to maintain the University Athletics Departmentâ€™s official site on the World Wide Web. The University does not have an agreement for that with 'appmaker NeuLion'; and, instead the Universityâ€™s has contracted with Learfield Communications, Inc [Learfield]. The respective contract is enclosed, and you will see the section pertaining to this topic is discussed in Internet Rights. Please note: the University does not have a copy of any subsequent agreement(s) between Learfield and NeuLion or any other company as part of Learfieldâ€™s 'rights and responsibility' under the enclosed contract.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Contracts, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-22T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;UNC's football guarantee contract with Old Dominion University for the 2013 season&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Football, Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-23T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;UNC's contracts with Chapel Hill Sportswear and Aramark. If the athletic department has its own contract with Aramark, I am requesting a copy of that contract as well&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts  </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-10-26T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-17T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;1.  All emails between Amy Shoop and Larry Conrad since Amy Shoop was hired. 2.  All emails between Larry Conrad and Ramon Padilla, since Amy Shoop was hired, with any combination of the following words, which I have separated with commas: Amy, Shoop, Irwin, uncle, niece 3.  All records the University made having to do with Amy Shoop's PMO (Project Management Office) certification. 4.  All texts between Amy Shoop and Larry Conrad while either was using a university phone. 5.  All records available involving any internal ITS training and/or apprenticeship programs since 2007. 6.  All public personnel information about Amy Shoop since she was hired, as detailed in North Carolina law.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails, Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">University Department and Public Safety arrest and incident Reports from November 2012 and December 2012</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">The yearly budget for ITS (including a breakdown by division/department) from 2006 to present. Â&#160;Since he was hired, all records for Larry Conrad's expense accounts, and any instances where the University paid for his expenses or he paid for something and was then reimbursed by the University</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Budgets, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Mary Stevens</Data></Cell>
+    <Cell><Data ss:Type="String">The internal university audit made by the UNC Office of Internal Audit in 2011...(that) revealed that $123,500 in revenue is unaccounted for in the box office and business operations of Carolina Performing Arts.</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Mary included in her request &quot;The University has released this record to the News &amp; Observer, according to an article published Nov. 13.&quot; </Data></Cell>
+    <Cell><Data ss:Type="String">Arts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2012-11-16T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-18T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Dan Wiser</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;â€œall emails either sent by Gov. Bev Perdue since January 2012 to a university employee or sent by a university employee to Gov. Perdue during that time period.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">State Government, Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-03T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">University Department and Public Safety arrest and incident Reports from November 2012 and December 2012</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-10T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Any documents submitted to UNC's compliance office in accordance with NCAA rule 11.2.2 within the past five years.</Data></Cell>
+    <Cell><Data ss:Type="String">?</Data></Cell>
+    <Cell><Data ss:Type="String">The bylaw Melvin refers to states that athletic department staff members must report all income from outside the institution to the school's president or chancellor annually</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-25T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-14T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">A breakdown of the operational budgets and &quot;special account&quot; fundraising total for UNC's 26 olympic sports programs going back to 2010-2011 and the starting &quot;special account&quot; balance for each year requested</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Money, Budgets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-28T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-01-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Contracts between UNC and the University of Kentucky for home-and-home series played between 2000 and 2012</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Money, Contracts, Basketball</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-04-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">A roster of classes taught at the School of Nursing during Summer 2010 and the faculty who taught them</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Courses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-22T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">Records from the University's Department of Public Safety police reports for January 2013</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-25T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-02-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Athletic department's debt payments from the last five years</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+    <Cell><Data ss:Type="String">Was asking for debt payment history but received a table with the amount of debt UNC paid as a whole during each of the last five years</Data></Cell>
+    <Cell><Data ss:Type="String">Sports, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-03-04T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">Letter UNC sent to the NCAA following the findings in the NCAA investigation</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Football</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-03-19T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-04-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Paula Seligson</Data></Cell>
+    <Cell><Data ss:Type="String">â€œthe following information for all arrests and incidents: case number, date, location (as specific as the report gives), offense, whether it was an incident or an arrestâ€¦for [the date range] February 1[,] 2013 â€“ February 28, 2013.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-08-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-20T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Josephine Yurcaba</Data></Cell>
+    <Cell><Data ss:Type="String">â€œa copy of the contract between the Carolina Union Activities Board at the University of North Carolina and the performer for the fall 2013 Homecoming Concert, Ace Hoodâ€ and â€œa copy of the contract between the Carolina Union Activities Board at the University of North Carolina and the performer for the fall 2013 Homecoming Concert, Wale.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Arts, Contracts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-08-28T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-08T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Fanney</Data></Cell>
+    <Cell><Data ss:Type="String">DTH record requests from August 27, 2009 to August 28, 2013</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-05T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Daniel Schere</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I write to request the average team GPA information for each of the following sports teams during the 2012-2013 academic year: Football, mens basketball, women's basketball, mens soccer, women's soccer, mens lacrosse, women's lacrosse, mens field hockey, women's field hockey.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Grades, Sports, Basketball, Football</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-10-04T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Nicole Comparato</Data></Cell>
+    <Cell><Data ss:Type="String">â€œgrade distribution and athlete composition of the classesâ€ during 2012 and 2013 and provided the following list of courses: EXSS 221 (F&amp;S), ENGL 149 (S), COMP 101 (F&amp;S), AMST 269 (F), EXSS 188 (F&amp;S), EXSS 323 (F&amp;S), EDUC 441 (F), PORT 275 (F), PORT 270 (F&amp;S), INLS 200 (F), DRAM 160 (F&amp;S), MATH 118 (F&amp;S), ENGL 101 (F&amp;S), ENGL 101 (F&amp;S) and ENGL 102.</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-25T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Amy Tsai</Data></Cell>
+    <Cell><Data ss:Type="String">all emails to the admissions office and admissions officers from December 1, 2012 to September 25, 2013 that contain the words â€œsexual,â€ â€œassault,â€ â€œrape,â€ â€œviolence,â€ â€œsex,â€ â€œmisconductâ€ or â€œabuse.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Partially</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Emails, Sexual Assault</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-09-26T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-10-10T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah Chaney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;breakdown of every faculty member (professors) at Kenan-Flagler by gender and race&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Courses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2013-10-31T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-04-29T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Melvin Backman</Data></Cell>
+    <Cell><Data ss:Type="String">â€œall emails to and from John Montgomery of the Rams Club from March 1, 2013 to June 30, 2013.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-11-07T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-17T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Catherine Marie O'Neill</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;records you have on elevators shutting down, where it occurs on campus, and how long it takes for the problem to be remedied? We are hoping to go back at least a year, but would love to be able to go back even further if possible. &quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-11-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-12-20T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;the University's contracts with the different search firms hired to find the following positions: Vice Chancellor for Development, Vice Chancellor for Public Affairs and Communications, Dean of the Business School (current contract), Chancellor Provost, Title IX Coordinator &quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Contracts, Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-11-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-12-15T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Fanney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I'm requesting the following information for Brenda Malone, Leslie Strohm and Ann Penn: Salary (or former salary, in Penn's case), Work history, Last personnel action, Date of her last promotion or demotion, The date of any disciplinary action taken against her, The status and finding of her last administrative review, A copy of her last administrative review</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2013-11-21T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-20T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">â€œI requested [sic] any information the Student Safety and Security Committee has on the survivorâ€™s assistance fund, including all information about committee appropriations to this, such as meeting minutes, the discussions and votes that have taken place.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Denied - not subject to public records act because an independent student congress committee</Data></Cell>
+    <Cell><Data ss:Type="String">Sexual Assault</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-02T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-11T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I wanted to request all University information on all policies, regulations, procedures or guidelines concerning the removal of students from campus housing and/or school enrollment on the grounds of suicidal tendencies or suicide attempts. I would also like to request as records showing the number of students removed from campus housing or campus enrollment as a result of violations of these policies.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Denied - &quot;don't exist&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Students</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-08T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Dan Schere</Data></Cell>
+    <Cell><Data ss:Type="String">â€œI am requesting the records of all student-athletes who took courses in the Drama Department from 2004 to 2012, broken down by class and year.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-01-14T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Brian Fanney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I would like to request the offense, location, date reported and time reported of all sex crimes reported to the Division of Student Affairs and to UNC Hospitals from 1/1/2010 to the current date. I have no desire to know names or any information that could identify students. I have already filed a similar request with the Department of Public Safety, which responded with the attached table. I would appreciate your response in a similar format if possible.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sexual Assault, Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-17T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Daniel Schere</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;â€œI am requesting the record of all student-athletes who took courses in the English Department and Department of Exercise and Sport Science from 2004 to 2012, broken down by class and year.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports, Courses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-23T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-02-24T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Fanney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;A copy of the retainer agreement for Kenneth Wainstein in regard to the current investigation into academic misconduct in the former Department of African and Afro-American Studies&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-12T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Dan Schere</Data></Cell>
+    <Cell><Data ss:Type="String">I am requesting the record of all student-athletes who took courses in the Communication Studies department from 2004 to 2012, broken down by class and year.â€</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-05T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I would like to request all records related to the cost paid by the University's for the data breach last year. I would also like to request the emails of Chris Kielt, Jim Dean, Carol Folt, Charles Streeter and Patty Courtright related to the breach. I would like to request all staff members' emails related to the data breach within the Department of Finance and Administration.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Money</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-18T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-03-19T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah Chaney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;all social media policies for UNC student athletes, imposed by the athletic department and/or university.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-04-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Chancellor Carol Folt's daily schedule beginning Jan. 1 until April 1&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstanding</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-04-05T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I would like to request records of all reports of sexual assault or sexual misconduct made to UNC's Title IX office, Campus Health Services, the Carolina Women's Center, the Office of the Dean of Students, and Counseling and Psychological Services between the time period of January 2013 to April 1, 2014.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstandng</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sexual Assault, Crime</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2014-04-08T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Carolyn Ebeling</Data></Cell>
+    <Cell><Data ss:Type="String"> I would like to request all athletic department or University policies dealing with coaches' public and private conduct regarding their student-athletes. </Data></Cell>
+    <Cell><Data ss:Type="String">Outstandng</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="DateTime">2014-04-15T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Sarah Chaney</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;I would like to request all emails sent to LS_Admin_Review@unc.edu. Names or identifiers can be redacted.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Denied</Data></Cell>
+    <Cell><Data ss:Type="String">Denied - &quot;personnel issue&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Emails</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2014-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">I would like to request any records UNC Chapel Hill has shared with the Department of Education, including or not limited to information about policies, training, student disciplinary outcomes, and/or grievance procedures.</Data></Cell>
+    <Cell><Data ss:Type="String">Outstandng</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">sexual assault</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="DateTime">2014-05-01T00:00:00.000</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amanda Albright</Data></Cell>
+    <Cell><Data ss:Type="String">I would also like to request any emails sent or received by Leslie Strohm and Kara Simmons regarding &quot;sexual assault,&quot; &quot;Title IX complaint,&quot; &quot;Clery Act,&quot; &quot;Department of Education.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Outstandng</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">sexual assault,  crime</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
