@@ -7,12 +7,18 @@ $(function () {
         title: {
             text: 'Responses'
         },
+        subtitle: {
+                    text: 'Click the columns to view response statuses.'
+                },
         xAxis: {
-            categories: ['2009', '2010', '2011', '2012', '2013', '2014']
+            type: 'category'
         },
-        yAxis: {
-            title: {
-                text: 'Success'
+                plotOptions: {
+            series: {
+                borderWidth: 0,
+                dataLabels: {
+                    enabled: true,
+                }
             }
         },
         series: [{
@@ -118,6 +124,14 @@ $(function () {
         },
         title: {
             text: 'Requests'
+        },
+        plotOptions: {
+            series: {
+                borderWidth: 0,
+                dataLabels: {
+                    enabled: true,
+                }
+            }
         },
         yAxis: {
             title: {
