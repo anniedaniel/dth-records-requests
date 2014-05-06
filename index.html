@@ -49,10 +49,11 @@
         <h1>DTH Records Requests</h1>
           <p class="lead">An investigation on The Daily Tar Heel's records requests to various departments within UNC Chapel Hill.</p>
       </div>
-      <h3>Who?</h3>
-        <div id="chart" style="width:100%; height:400px;"></div>
+      <h3>Success Rate</h3>
+        <div id="success" style="width:100%; height:400px;"></div>
       <hr />
       <h3>What?</h3>
+
       <hr />
       <h3>When?</h3>
       <hr />
@@ -67,54 +68,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="js/success.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script>
-      var options = {
-        chart : {
-            renderTo : 'chart',
-            defaultSeriesType: 'column'
-        },
-        title:{
-          text: 'Topics'
-        },
-        xAxis: {
-          categories: ['Arts', 'Sports', 'Grades', 'Emails', 'FERPA', 'Money', 'Crime', 'Courses', 'Contracts', 'State Government', 'Football', 'Basketball', 'Phone Calls', 'Students', 'Budgets', 'Reports', 'Sexual Assault']
-        },
-        yAxis: {
-          title: {
-            text: 'Units'
-          }
-        },
-        series: []
-      };
-
-      $.get('js/records.csv', function(data){
-        var lines = data.split('/n');
-        $.each(lines, function(lineNo, line) {
-          var items = line.split(',');
-
-          if (lineNo == 0) {
-            $.each(items, function(itemNo, item) {
-              if(itemNo > 0) options.xAxis.categories.push(item);
-            });
-          }
-        else {
-          var series = {
-            data: []
-          };
-          $.each(items, function(itemNo, item){
-            if (itemNo == 0) {
-              series.name = item;
-            } else {
-              series.data.push(parseFloat(item));
-            }
-          });
-          options.series.push(series);
-        }
-        });
-        var chart = new Highcharts.Chart(options);
-      });
-
-    </script>
   </body>
 </html>
