@@ -181,6 +181,12 @@ $(function () {
     });
 });
 
+
+$(document).ready(function() {
+  $('#requests').dataTable({
+    "iDisplayLength": 25
+  });
+});
 // $.get('js/records.xml', function(xml) {
 //   var $xml = $(xml);
 //   $xml.find('success').each(function(i, success){
